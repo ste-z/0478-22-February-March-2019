@@ -9,18 +9,16 @@ Python Version - 3.7.x
 
 
 ## Task
-A pizza ordering service allows customers to design their own pizza. There are three sizes: small, medium and large. A pizza can have a thick or thin base. All pizzas come with tomato and cheese toppings as standard and there are six additional types of topping available:
+A pizza ordering service allows customers to design their own pizza. There are three sizes: small, medium and large. A pizza can have a thick or thin base. 
+All pizzas come with tomato and cheese toppings as standard and there are six additional types of topping available:
 • Pepperoni
 • Chicken
 • Extra cheese
 • Mushrooms
 • Spinach
 • Olives
+
 Pizzas always come with tomato and cheese toppings as standard, and can have up to three additional toppings. Customers need to be able to design their own pizza and then confirm or change it. Records are kept showing the number of pizzas sold for each base and size. The number of sales for each additional topping is also recorded.
-Write and test a program or programs for the pizza ordering service.
-• Your program or programs must include appropriate prompts for the entry of data.
-• Error messages and other output need to be set out clearly and understandably.
-• All variables, constants and other identifiers must have meaningful names.
 
 
 TASK 1 – Design your pizza.
