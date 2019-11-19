@@ -47,7 +47,7 @@ void ICT_Pizza_1()
         cin>>input2;
         cout<<"Please? Select pizza Topping required (from 1 to 3): ";
         cin>>input3;
-        cout<<"Topping Menu:\n1. Pepperoni\t2. Chicken\t3. Extra Cheese\n4. Mushrooms\t5. Spinach\t6. Olives
+        cout<<"Topping Menu:\n1. Pepperoni\t2. Chicken\t3. Extra Cheese\n4. Mushrooms\t5. Spinach\t6. Olives";
         for (int i=0; i<input3; i++) {
             cout<<"Select topping "<<i+1<<" (enter 1-6): ";
             cin>>topping[i];
