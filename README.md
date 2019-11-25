@@ -3,9 +3,10 @@
 
 
 ## Files Format
-If you want to open .drawio files, please go to draw.io and open the document, it is an editable file (Topdown design and Flowchart)
+If you want to open .drawio files, please go to draw.io and open the document, it is an editable file (Topdown design and Flowchart) (Only Available for the not-so-awesome program)
 
 Python Version - 3.7.x
+g++ Version - 11.x.x
 
 
 ## Task
@@ -29,3 +30,6 @@ Extend TASK 1 to record totals for the choices made for ordered pizzas only and 
 
 TASK 3 – Find the most and least popular additional pizza toppings.
 Using your results from TASK 2, display the most popular and least popular additional toppings as a percentage of the total number of additional toppings ordered.
+
+TASK EXTRA-AWESOME - MORE Customized Configurations.
+Change the topping types, limits, or literally everything. LETS DO IT. (Just for fun, don't use it in test.)
